@@ -10,4 +10,5 @@ DelayLine_SetLength - Initializes the read pointer for a delay line
 DelayLine_Read.m - Reads from a delay line only  
 DelayLine_Write.m - Writes to a delay line only 
 DelayLine_TickOnly.m - Advances read and write pointers only  
-junction.m - Computes the output for the forward and backward wave at a junction between acoustic tube sections  
+junction.m - Computes the output for the forward and backward wave at a junction between acoustic tube sections   
+trumpet.wav - sample audio input file
